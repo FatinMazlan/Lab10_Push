@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "409004557778",
+    "firebase_url": "https://fatinlab10.firebaseio.com",
+    "project_id": "fatinlab10",
+    "storage_bucket": "fatinlab10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409004557778:android:b97269ac917829d1",
+        "android_client_info": {
+          "package_name": "com.example.fatin.fatin_push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409004557778-floshf5kosqsuliufp01gao71cea5vi3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyuAv8XnciSuKIg_6AhdfNqDmTLowgYy8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
